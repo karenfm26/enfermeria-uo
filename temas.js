@@ -151,121 +151,63 @@ window.UO_TEMAS = [
     id: "movilizacion-paciente",
   titulo: "Movilización del paciente",
   unidad: "tecnicas",
-
   resumen: "Procedimiento de enfermería para realizar cambios posturales, movilizaciones y traslados de forma individualizada, segura y de acuerdo con las capacidades y necesidades del paciente.",
-
   conceptos: [
-
     "Valoración de la movilidad",
-
     "Cambios posturales",
-
     "Mecánica corporal",
-
     "Transferencias y traslados",
-
     "Ayudas técnicas",
-
     "Prevención de caídas",
-
     "Prevención de lesiones por presión"
-
   ],
-
   objetivo: "Identificar y aplicar los principios básicos de movilización del paciente, valorando sus capacidades, riesgos, necesidades de apoyo y tolerancia al movimiento para mantener su seguridad y comodidad.",
-
   introduccion: "La movilización del paciente comprende los cambios de posición en cama, la incorporación, la sedestación, la bipedestación y los traslados a una silla de ruedas o camilla. Antes de realizarla, el personal de enfermería debe valorar la condición clínica, la fuerza, el equilibrio, el dolor y el nivel de colaboración del paciente. Una técnica adecuada favorece la comodidad, conserva la movilidad y ayuda a prevenir complicaciones derivadas de la inmovilidad, como lesiones por presión y pérdida de fuerza muscular.",
-
   materiales: [
-
     "Cama hospitalaria con frenos funcionales",
-
     "Sábana clínica o sábana deslizante, según la técnica",
-
     "Silla de ruedas o camilla, cuando corresponda",
-
     "Ayudas mecánicas para movilización, si están indicadas",
-
     "Calzado antideslizante",
-
     "Almohadas y soportes para mantener la alineación corporal",
-
     "Equipo de protección personal según el riesgo"
-
   ],
-
   pasos: [
-
     "Verifica la identidad del paciente y consulta el plan de cuidados y las restricciones de movilidad.",
-
     "Valora la fuerza, el equilibrio, el nivel de conciencia, el dolor, la movilidad, el estado de la piel y la capacidad de colaboración.",
-
     "Identifica los riesgos de caída y revisa sondas, catéteres, drenajes y otros dispositivos conectados al paciente.",
-
     "Explica el procedimiento, solicita su consentimiento y acuerda cómo se coordinará el movimiento.",
-
     "Prepara el espacio, retira obstáculos, verifica los frenos y selecciona la ayuda técnica adecuada.",
-
     "Determina si necesitas apoyo de otro profesional o un dispositivo mecánico para realizar la maniobra de forma segura.",
-
     "Realiza el cambio postural o traslado con movimientos coordinados, manteniendo la alineación corporal y evitando tirones o torsiones.",
-
     "Observa la respuesta del paciente durante la movilización y detén la maniobra si presenta dolor importante, mareo, dificultad respiratoria o cambios clínicos.",
-
     "Al finalizar, verifica la comodidad, la alineación corporal, la estabilidad y la seguridad de los dispositivos.",
-
     "Deja al paciente en una posición segura, con el timbre y los objetos necesarios al alcance, y registra el procedimiento, la tolerancia y cualquier incidencia."
-
   ],
-
   precauciones: [
-
     "Adapta la maniobra a la condición clínica, la capacidad funcional y las restricciones del paciente.",
-
     "No intentes levantar manualmente a un paciente dependiente cuando se requieran más personas o ayudas mecánicas.",
-
     "Evita traccionar de las extremidades, sondas, catéteres y drenajes.",
-
     "Suspende la maniobra ante dolor intenso, mareo, dificultad respiratoria, pérdida del equilibrio o deterioro clínico.",
-
     "Solicita apoyo profesional si no cuentas con los recursos necesarios para movilizar al paciente de forma segura."
-
   ],
-
   seguridad: [
-
     "Aplica las medidas institucionales de prevención de caídas.",
-
     "Activa los frenos de la cama, silla de ruedas o camilla antes de realizar la transferencia, según corresponda.",
-
     "Utiliza mecánica corporal adecuada y ayudas técnicas para reducir el riesgo de lesiones del personal.",
-
     "Protege la intimidad y la dignidad del paciente durante todo el procedimiento.",
-
     "Revisa la piel y utiliza cambios posturales individualizados según el riesgo y el plan de cuidados.",
-
     "Mantén libres de obstáculos las vías de desplazamiento y protege los dispositivos médicos."
-
   ],
-
   errores: [
-
     "Movilizar sin valorar previamente las capacidades y los riesgos del paciente.",
-
     "Omitir la explicación del procedimiento o la coordinación con el equipo.",
-
     "Realizar movimientos bruscos o tirar de las extremidades.",
-
     "Olvidar los frenos o dejar obstáculos en el área.",
-
     "Ignorar el dolor, el mareo o los cambios clínicos durante la maniobra.",
-
     "Dejar al paciente en una posición inestable o sin las medidas de seguridad indicadas.",
-
     "No registrar la respuesta del paciente ni las incidencias relevantes."
-
   ],
-
   evidencia: "Elabora una lista de comprobación previa a la movilización y realiza una demostración supervisada de un cambio postural o transferencia. Identifica la valoración previa, los recursos necesarios, las medidas de seguridad y los criterios para detener la maniobra."
 
   },
@@ -358,7 +300,7 @@ window.UO_TEMAS = [
     objetivo: "Explicar por qué el manejo de RPBI depende de una clasificación correcta y del cumplimiento de la regulación y el protocolo vigentes.",
     introduccion: "Los residuos con riesgo biológico deben manejarse de forma que proteja a personas y ambiente. Las definiciones, recipientes, etiquetado y disposición final dependen de la regulación aplicable y las reglas institucionales.",
     materiales: ["Contenedores autorizados y etiquetados", "Equipo de protección según riesgo", "Procedimiento institucional actualizado"],
-    pasos: ["Identifica el residuo conforme a la clasificación vigente.", "Consulta el contenedor","Nivel I:Unidades hospitalarias de hasta 5 camas, laboratorios de unas 5 muestras al dia maximo de 30 dias, Nivel II:Unidad hospitalaria de 6 a 60 camas, laboratorios que generan de 25 a 100 kg al mes maximo 15 dias, Nivel III: Hospitales de mas de 60  camas, centros de investigacion o laboratorios que generan mas 100 kg al mes maximo 7 dias", "Residuos ´patologicos no conservados en formol deben conservarse a una temperatura maxima de 4°C en refrigeracion","Segrega el material en el punto de generación, sin compactarlo ni manipularlo innecesariamente.", "Cierra, etiqueta y traslada únicamente por la ruta autorizada.", "Notifica incidentes o derrames según el plan institucional."],
+    pasos: ["Identifica el residuo conforme a la clasificación vigente.", "Consulta el contenedor y nivel de llenado permitidos.", "Segrega el material en el punto de generación, sin compactarlo ni manipularlo innecesariamente.", "Cierra, etiqueta y traslada únicamente por la ruta autorizada.", "Notifica incidentes o derrames según el plan institucional."],
     precauciones: ["Esta guía no sustituye la normativa vigente en tu país ni el programa institucional.", "No deposites un residuo si existe duda de clasificación: consulta al responsable de seguridad."],
     seguridad: ["Evita reencapuchar, compactar o introducir manualmente material en recipientes.", "Usa contenedores sin sobrepasar límites y notifica exposición de inmediato."],
     errores: ["Segregar por costumbre sin verificar la clasificación.", "Usar contenedores incorrectos, dañados o sobrellenados."],
